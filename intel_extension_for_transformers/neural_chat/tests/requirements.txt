@@ -60,12 +60,12 @@ qdrant-client
 rank_bm25
 resampy==0.3.1
 rouge_score
+sacremoses
 safetensors
 scikit-image==0.19.3
 scikit-learn
 scipy==1.10.1
 sentence-transformers==2.3.1
-sentence_transformers
 shortuuid
 spacy
 speechbrain==0.5.15
